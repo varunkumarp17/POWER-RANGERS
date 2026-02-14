@@ -31,17 +31,3 @@ Just gestures. ✋✨
 - NumPy
 
 ---
-
-## 📁 Project Structure
-├── neon_visualizer.py
-├── hand_landmarker.task
-├── README.md
-└── LICENSE
-
-
----
-
-
-Press Q to quit.
-
-## If you found this useful, ⭐ the repository and share it!
